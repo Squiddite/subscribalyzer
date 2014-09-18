@@ -1,0 +1,13 @@
+{
+   "database": {
+      "host": "localhost",
+      "database": "subq",
+      "user": "user1",
+      "password": "password1"
+   },
+   "twitch": {
+      "apiVersion": "v2",
+      "applicationName": "MyApp",
+      "apiKey": "udfksjhuhva8rhdf2mdsfh1jv4"
+   }
+}
